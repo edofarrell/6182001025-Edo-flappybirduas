@@ -8,7 +8,7 @@ The project involves developing a customized Flappy Bird game with these unique 
 - On the homescreen, players can customize the bird's appearance and select the game difficulty.
 - The game includes a pause feature.
 
-> This is a final project for the "Fundamentals of Game Development" course.
+> This is the final project for the "Fundamentals of Game Development" course.
 
 ## Demo
 https://edofarrell.github.io/6182001025-Edo-flappybirduas/
