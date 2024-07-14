@@ -11,7 +11,7 @@ The project involves developing a customized Flappy Bird game with these unique 
 > This is the final project for the "Fundamentals of Game Development" course.
 
 ## Demo
-https://edofarrell.github.io/6182001025-Edo-flappybirduas/
+https://edofarrell.github.io/customized-flappy-bird/
 
 ## Technologies
 Cocos Creator, TypeScript
